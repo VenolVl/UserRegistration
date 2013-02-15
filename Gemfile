@@ -26,6 +26,7 @@ end
 gem 'jquery-rails'
 
 gem 'omniauth'
+gem 'omniauth-twitter'
 
 gem 'heroku'
 # To use ActiveModel has_secure_password
